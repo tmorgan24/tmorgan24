@@ -6,7 +6,7 @@
 
 -Network Plus Home Lab
 
--Microsoft 365
+-Microsoft Azure
 <h2> - Certifications</h2>
 CompTia Sercurity+
 <h2>📺 Popular YouTube Videos</h2>
