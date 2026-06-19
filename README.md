@@ -7,6 +7,8 @@
 -Network Plus Home Lab
 
 -Microsoft Azure
+
+-Group Policy Management Home Lab: Creating and Setting Up GPO
 <h2> - Certifications</h2>
 CompTia Sercurity+
 <h2>📺 Popular YouTube Videos</h2>
