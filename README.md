@@ -4,6 +4,9 @@
 
   - Active Directory Home Lab (https://github.com/tmorgan24/Active-Directory-Lab/blob/main/README.md)
 
+-Network Plus Home Lab
+
+-Microsoft 365
 <h2> - Certifications</h2>
 CompTia Sercurity+
 <h2>📺 Popular YouTube Videos</h2>
