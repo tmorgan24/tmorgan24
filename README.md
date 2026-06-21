@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- Active Directory Home Lab (https://github.com/tmorgan24/Active-Directory-Lab/blob/main/README.md)
+-Active Directory Home Lab (https://github.com/tmorgan24/Active-Directory-Lab/blob/main/README.md)
 
 -Network Plus Home Lab
 
